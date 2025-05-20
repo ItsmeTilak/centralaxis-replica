@@ -156,7 +156,7 @@ If you have any questions or run into issues:
 ## 🌟 Acknowledgments
 
 - Original design and concept by [CentralAxis](https://www.centralaxis.com)
-- Built with love and attention to detail
+- Built with passion and attention to detail
 - Deployed seamlessly on [Vercel](https://vercel.com)
 
 ---
