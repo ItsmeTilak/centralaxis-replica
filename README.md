@@ -2,7 +2,7 @@
 
 A pixel-perfect replica of the [CentralAxis](https://www.centralaxis.com) landing page built with modern web technologies. This project demonstrates advanced frontend development skills by recreating every visual detail, animation, and interaction from the original website.
 
-![CentralAxis Replica Preview](public/images/hardware/background.png)
+![CentralAxis Replica Preview](public/images/image.png)
 
 ## 🚀 Live Demo
 
