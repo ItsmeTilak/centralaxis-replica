@@ -8,7 +8,7 @@ import Button from "../ui/Button";
 const BookDemo = () => {
   return (
     <section id="book-demo" className="py-10 md:py-18 bg-black">
-      <div className="container mx-auto px-4 md:px-8 max-w-9xl">
+      <div className="container mx-auto px-4 md:px-8 max-w-7xl">
         <div 
           className="rounded-xl overflow-hidden relative"
           style={{
