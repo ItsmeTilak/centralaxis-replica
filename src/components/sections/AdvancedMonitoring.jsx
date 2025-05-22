@@ -17,7 +17,7 @@ const AdvancedMonitoring = () => {
   }, []);
   return (
     <section id="advanced-monitoring" className="py-2 md:py-5 bg-black">
-      <div className="container mx-auto px-4 md:px-8 max-w-9xl">
+      <div className="container mx-auto px-4 md:px-8 max-w-7xl">
         <div className="text-center mb-2">
             <div className="inline-block px-4 py-1 rounded-full bg-gray-900 text-sm font-medium text-grayscale-500">
               Built for AI 
