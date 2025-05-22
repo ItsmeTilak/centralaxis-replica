@@ -15,7 +15,7 @@ const NetworkManagement = () => {
 
   return (
     <section id="network-management" className="py-0.2 md:py-0.5 bg-black">
-      <div className="container mx-auto px-4 md:px-8 max-w-9xl">
+      <div className="container mx-auto px-4 md:px-8 max-w-7xl">
         <div className="bg-grayscale-900 rounded-xl p-2 md:p-18">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
             <motion.div
