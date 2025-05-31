@@ -34,7 +34,7 @@ const LogoSlider = () => {
         <div 
           className="overflow-hidden relative"
           style={{ height: '120px' }}
-          onMouseEnter={() => {
+{/*           onMouseEnter={() => {
             if (sliderRef.current) {
               sliderRef.current.style.animationPlayState = "paused";
             }
@@ -43,7 +43,7 @@ const LogoSlider = () => {
             if (sliderRef.current) {
               sliderRef.current.style.animationPlayState = "running";
             }
-          }}
+          }} */}
         >
           {/* First row of logos */}
           <div 
