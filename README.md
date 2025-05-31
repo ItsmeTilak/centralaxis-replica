@@ -146,13 +146,6 @@ module.exports = {
 
 This project is for educational and demonstration purposes only. All design rights belong to CentralAxis.
 
-## 🙋‍♂️ Support
-
-If you have any questions or run into issues:
-
-- Create an [Issue](https://github.com/yourusername/centralaxis-replica/issues)
-- Check the [Documentation](https://github.com/yourusername/centralaxis-replica/wiki)
-
 ## 🌟 Acknowledgments
 
 - Original design and concept by [CentralAxis](https://www.centralaxis.com)
