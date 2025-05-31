@@ -34,11 +34,11 @@ const LogoSlider = () => {
         <div 
           className="overflow-hidden relative"
           style={{ height: '120px' }}
-{/*           onMouseEnter={() => {
+          onMouseEnter={() => {
             if (sliderRef.current) {
               sliderRef.current.style.animationPlayState = "paused";
             }
-          }} */}
+          }}
           onMouseLeave={() => {
             if (sliderRef.current) {
               sliderRef.current.style.animationPlayState = "running";
