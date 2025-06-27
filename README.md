@@ -32,7 +32,7 @@ A pixel-perfect replica of the [CentralAxis](https://www.centralaxis.com) landin
 
 - **Framework:** Next.js 13+
 - **Styling:** Tailwind CSS
-- **Language:** JavaScript/TypeScript
+- **Language:** JavaScript
 - **Animations:** Custom animation library
 - **Deployment:** Vercel
 - **Package Manager:** npm
